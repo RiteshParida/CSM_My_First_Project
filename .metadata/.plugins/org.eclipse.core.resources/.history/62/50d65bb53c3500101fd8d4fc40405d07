@@ -1,0 +1,13 @@
+import com.csm.tech.*;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class BApplication2 {
+
+	public static void main(String[] args) {
+		SpringApplication.run(BApplication2.class, args);
+	}
+
+}
